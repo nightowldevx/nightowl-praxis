@@ -143,17 +143,15 @@ npm start
 # Runs on port 3000
 ```
 
-**Looking for custom work?** [Get in touch](mailto:your.email@example.com)
+**Looking for custom work?** [Get in touch](mailto:nightowldev.freelance@gmail.com)
 
 ---
 
 ## 🔗 Links
 
-- **Live Demo:** [praxis-demo.vercel.app](#)
-- **Portfolio:** [yourportfolio.com](#)
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-
+- **Live Demo:** [Demo](https://nightowl-praxis.vercel.app/)
+- **Portfolio:** [Portfolio](https://nightowldevx.vercel.app/)
+- **Instagram:** [Instagram](https://www.instagram.com/nightowldevx/)
 ---
 
 **⭐ If you found this template helpful, consider giving it a star!**
