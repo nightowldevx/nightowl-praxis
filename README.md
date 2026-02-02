@@ -2,11 +2,6 @@
 
 A premium, production-ready restaurant landing page template built with Next.js 16, TypeScript, and Tailwind CSS v4. Designed for upscale dining establishments that value restraint, elegance, and modern web performance.
 
-![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?style=flat-square&logo=tailwindcss)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-
 ---
 
 ## ✨ Key Features
@@ -27,29 +22,6 @@ A premium, production-ready restaurant landing page template built with Next.js 
 
 ### Prerequisites
 - Node.js 20+ and npm/yarn/pnpm
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/praxis-restaurant-template.git
-cd praxis-restaurant-template
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view the site.
-
-### Build for Production
-
-```bash
-npm run build
-npm start
-```
 
 ---
 
@@ -130,18 +102,6 @@ export const menuCategories: MenuCategory[] = [
 ### Vercel (Recommended)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/praxis-restaurant-template)
 
-### Netlify
-```bash
-npm run build
-# Deploy the .next folder
-```
-
-### Self-Hosted
-```bash
-npm run build
-npm start
-# Runs on port 3000
-```
 
 **Looking for custom work?** [Get in touch](mailto:nightowldev.freelance@gmail.com)
 
@@ -152,6 +112,7 @@ npm start
 - **Live Demo:** [Demo](https://nightowl-praxis.vercel.app/)
 - **Portfolio:** [Portfolio](https://nightowldevx.vercel.app/)
 - **Instagram:** [Instagram](https://www.instagram.com/nightowldevx/)
+
 ---
 
 **⭐ If you found this template helpful, consider giving it a star!**
